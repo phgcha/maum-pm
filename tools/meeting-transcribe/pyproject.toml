@@ -1,0 +1,9 @@
+[project]
+name = "meeting-transcribe"
+version = "0.1.0"
+description = "Local meeting STT (mlx-whisper) + speaker diarization (pyannote) for Apple Silicon"
+requires-python = ">=3.12"
+dependencies = [
+    "mlx-whisper>=0.4.3",
+    "pyannote-audio>=4.0.7",
+]

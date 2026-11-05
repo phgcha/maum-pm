@@ -1,0 +1,26 @@
+.gemini/skills/
+
+# Local Gemini MCP & settings with credentials
+.gemini/settings.json
+
+# Local Claude MCP configuration
+.mcp.json
+
+# Local Zed project settings with credential paths
+.zed/settings.json
+
+# Local Python virtualenvs & cache
+.venv/
+__pycache__/
+*.py[cod]
+
+# OS metadata
+.DS_Store
+
+# Media & archive files
+*.mp4
+*.mov
+*.zip
+HanwhaOcean/10월월례회의/**/*.png
+HanwhaOcean/10월월례회의/**/*.jpg
+HanwhaOcean/10월월례회의/**/*.jpeg
