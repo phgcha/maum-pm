@@ -1,4 +1,5 @@
 .gemini/skills/
+skills/system/
 
 # Local Gemini MCP & settings with credentials
 .gemini/settings.json
