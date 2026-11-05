@@ -82,5 +82,6 @@ uv run --project tools/meeting-transcribe python tools/meeting-transcribe/pipeli
 ## 5. 저장과 공유
 
 - 저장 위치: `<Project>/meetings/<YYYY-MM-DD>_<제목>/transcript.md`, `notes.md`
+  - `DusanBobcat`은 1차와 2차로 나뉘므로 `DusanBobcat/1차프로젝트/meetings/` 또는 `DusanBobcat/2차프로젝트/meetings/` 아래에 저장
 - 회의록은 사내 비공개 자료로 취급. Slack, Notion, Linear 등 외부 게시는 사용자 확인 후 실행
 - 새로 확인된 용어는 `prompts/<Project>.txt`에 반영해 다음 회의 전사 정확도 향상

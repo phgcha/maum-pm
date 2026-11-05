@@ -21,8 +21,12 @@
 
 ### 1.2 Dusan Bobcat (두산밥캣)
 - **Target Path**: `DusanBobcat/`
-- **Primary References**: `DusanBobcat/README.md`, `DusanBobcat/bobcat_data_tools.md`, `DusanBobcat/hanwha_ocean_reuse_strategy.md`
-- **Focus**: WoRV Data Viewer, WoRV Labeling Tool 등 7대 자체 개발 데이터 툴체인 사양 및 재사용 계획, 후속 프로젝트 회의록(`DusanBobcat/meetings/`).
+- **Primary Directive**: `DusanBobcat/agents.md` (또는 `DusanBobcat/CLAUDE.md`)
+- **Action Rule**:
+  - 두산밥캣(축사 로더 자율화, 프로젝트 코드 `P336`) 관련 요청 수신 시, **작업 전 반드시 `DusanBobcat/agents.md`를 먼저 읽고 그 지침에 따른다**.
+  - 요청이 **1차프로젝트**(수행 중인 PoC 계약)와 **2차프로젝트**(협상 중인 후속 계약) 중 어디에 속하는지 먼저 정하고, 해당 폴더의 `project_status.md`를 1차 기준으로 삼는다. "2차 시연"은 1차프로젝트의 두 번째 시연이다.
+  - 주 소스는 Outline과 Slack이며 Linear는 보조다. 증분 수집은 `DusanBobcat/sync_state.md`의 기준점 이후로 한정하고 전수 스캔을 반복하지 않는다.
+- **Reference**: `DusanBobcat/bobcat_data_tools.md`, `DusanBobcat/hanwha_ocean_reuse_strategy.md` (데이터 툴체인 사양과 재사용 계획), 회의록은 `DusanBobcat/2차프로젝트/meetings/`
 
 ### 1.3 Hanwha Aerospace (한화에어로스페이스)
 - **Target Path**: `HanwhaAerospace/`
