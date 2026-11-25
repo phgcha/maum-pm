@@ -36,6 +36,13 @@
 - **Target Path**: `ontology/`
 - **Primary Reference**: `ontology/README.md`
 
+### 1.5 2027 CES
+- **Target Path**: `2027CES/`
+- **Primary Directive**: `2027CES/agents.md` (또는 `2027CES/CLAUDE.md`)
+- **Action Rule**:
+  - 2027 CES 관련 요청 수신 시, **작업 전 반드시 `2027CES/agents.md`를 먼저 읽고 그 지침에 따른다**.
+  - Notion은 `2027CES/`에서 실행한 세션의 `notion-ces` MCP(OAuth)로 접근한다.
+
 ---
 
 ## 2. Global Execution Directives
