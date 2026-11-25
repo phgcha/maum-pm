@@ -1,13 +1,13 @@
 # Hanwha Ocean 곡블록 용접 문서 현황 스냅샷
 
-> **기준일: 2026-10-27 (KST)**
+> **기준일: Drive 2026-11-12, Outline 2026-10-27 (KST)**
 > 이 문서는 기준일 시점의 Google Drive와 Outline 상태를 기록한 읽기 전용 색인이다. 기준일 이후 변경분은 반영되지 않았다.
 
 | 항목 | 내용 |
 | :--- | :--- |
-| 기준일 | 2026-10-27 |
+| 기준일 | Drive 2026-11-12 (증분 갱신), Outline 2026-10-27 (11-12 갱신 시 미조회) |
 | 작성자 | 차현권 (pcha@maum.ai), AI 에이전트 조회 |
-| Drive 범위 | 공유 드라이브 `프로젝트/Hanwha Ocean 곡블록 용접` 전체 하위 폴더 |
+| Drive 범위 | WoRV 공유 드라이브 `4. Hanwha Ocean 곡블록 용접` 전체 하위 폴더 (2026-11-11 폴더명에 번호 추가, 11-12 권한 재조정 후 조회) |
 | Outline 범위 | `📁Hanwha Ocean` 컬렉션 전체 문서 72개 |
 | 판정 근거 | 파일명, 폴더명, 생성일, 수정일, 문서 본문 (표지, 서명란, 개정 이력, 첨부 목록 위주) |
 | 본문 미확인 | RFP_본문 DR 사양서 1건 (암호화 PDF, 열람 불가), 법인카드 영수증 67건 (파일명만 검토) |
@@ -42,7 +42,8 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 본계약 | 한화오션 | [최종계약서_곡블록 비정형 용접부의 자율용접을 위한 AI 용접기술 개발_마음에이아이_최종.pdf](https://drive.google.com/file/d/1pNYwsr1fjrIGmsdJYT0FIIMYsh19ct1g/view) | 2026-09-11 | 2026-09-11 ~ 2027-07-31 | 현행 (양사 대표 전자서명) |
 | 파트너 계약 | 스타웰즈 | [기술용역계약서_스타웰즈_260911_pdf.pdf](https://drive.google.com/file/d/1JrzqnzU-4IwjvYcuw2cy7eO8QCGcSGPB/view) | 2026-09-11 | 2026-09-11 ~ 2027-07-31 | 현행 (직인, 대표 서명) |
-| 파트너 계약 | 포항공과대학교 산학협력단 (연구책임 CoCEL 한수희 교수) | [기술용역계약서_포항공과대학](https://drive.google.com/file/d/19AlP4Y8g4BIciwAF1A9OmPoVLVhBgEU2/view) | 2026-09-18 | 2026-09-17 ~ 2027-07-31 | 현행 (계약서 2부가 PDF 1개에 합본) |
+| 파트너 계약 | 포항공과대학교 산학협력단 (연구책임 CoCEL 한수희 교수) | [기술용역계약서_포항공과대학](https://drive.google.com/file/d/19AlP4Y8g4BIciwAF1A9OmPoVLVhBgEU2/view) | 2026-09-18 | 2026-09-17 ~ 2027-07-31 | 현행 (본문 17쪽 2부가 PDF 1개에 합본, **첨부 1 ~ 5 미포함**). 텍스트 사본: [Google 문서 변환본](https://docs.google.com/document/d/1PqIFKyXIwQLV4-l5aBxyq3-eHTuv32Su25lffVO8RgY/edit) (10-28) |
+| 계약 변경 | 포항공과대학교 산학협력단 | [마음AI수정_산업체계약변경합의서_POSTECH_20261112.docx](https://docs.google.com/document/d/1S7-ywFz5jyxXfij544LkK0CC57mqVv4B/edit) | 미체결 | 합의일 [11]/[12] 공란 표기 | 진행 중. 데이터 수집 HW 구매 주체 변경, 계약금액 감액. 포항공대 양식 기반 |
 | 개발품 공급 | 한화로보틱스 | [개발품공급계약_260911_1_260915_로보틱스 수정_날인본.pdf](https://drive.google.com/file/d/1P-g8QI3sM2J6wyIjZmBYDG8jUCsgEXin/view) | 2026-09-15 | 본문 확인 필요 | 현행. **별첨 1 ~ 4 날인본 누락** |
 | 장비 사용대차 | 한화로보틱스 (HCR-5W 시제품) | Outline [한화로보틱스](https://wiki.worvgrip.com/doc/7zwc7zmu66gc67o07yux7iqk-jnAMHcwSt0) 첨부 `대차계약서_마음AI(5W국책과제 시제품)_261021.pdf` | 2026-10-21 | 본문 확인 필요 | 현행. **Drive 프로젝트 폴더에 없음** |
 | 용역 계약 | 크라우드웍스 | [[표준용역계약서] 마음 AI_한화오션 프로젝트 데이터 수집 QA 라벨링(파견)_크라우드웍스_20260902.docx](https://docs.google.com/document/d/13x5ldxFduVXhQds8bqqBC8k-xTqBvKlQ/edit) | 미체결 | 빈칸 | 진행 중 (초안. 기간, 인원, 대금, 체결일 공란) |
@@ -62,6 +63,16 @@
 | 5 | 마음AI 견적서 07.10 | 2.2 견적서 |
 
 **스타웰즈 서명본 첨부 구성**: 사양서 r2_260827, 견적서 260904, 업무분장 260820, 제안서 260729, 윤리규범 실천지침.
+
+**포항공대 서명본 첨부 2 (견적서) 판본 주의**
+
+| 파일 | 위치 | 간접비 표기 | 판정 |
+| :--- | :--- | :--- | :--- |
+| `첨부 2. 포항공대 견적서.docx` | `2. CoCEL/계약서/2026.09.18 최종계약서` | 직접비의 25% (표기 비율과 금액 산식 불일치) | 서명본 폴더 수록본. 실제 첨부 여부는 포항공대 보관본과 대조 필요 |
+| `첨부 2. 포항공대_견적서_20260710` (xlsx) | `2. CoCEL/계약서` | 직접비의 15% | 원 견적. 공급가가 계약금액과 다름 |
+
+- 서명본 PDF에는 첨부가 없어 어느 판본이 계약 첨부 2인지 Drive만으로 확정할 수 없다. 두 판본은 인건비 항목, 출장비, 간접비 금액이 서로 다르다.
+- 계약변경합의서 11-12 초기본의 "변경 전" 견적 금액은 위 두 판본 어느 것과도 일치하지 않았다. 11-12 05:26 수정본(박다은)은 견적 금액 요약에서 HW 1개 행만 변경하는 방식으로 바뀌었다.
 
 ### 2.2 기술 사양, 제안, 견적
 
@@ -83,9 +94,10 @@
 | MAI-HO-002 Communication Protocol | [Rev.A PDF](https://drive.google.com/file/d/1cltuKFtwLmOeMtZQaYeduwvx7HaEdf-C/view) | 제출 2026-09-22 | 현행 |
 | MAI-HO-003 Project Schedule | [Rev.A PDF](https://drive.google.com/file/d/1SfUBxdz-RpzE9jQhY2dlA_nIo96tA9NT/view) | 제출 2026-09-22 | 현행 |
 | MAI-HO-004 Hardware / Sensor List | [Rev.A PDF](https://drive.google.com/file/d/1o0p2RDJhb9G0CLaChw_kCmbWSpwREigm/view) | 제출 2026-09-22 | 현행 (제출본) |
-| MAI-HO-004 Hardware / Sensor List | [Rev.B docx](https://docs.google.com/document/d/1DnGguA2GFsyqxRd0uVYXWXOXZGyRubxF/edit) | 표지 2026-10-12 | 진행 중 (작업본) |
+| MAI-HO-004 Hardware / Sensor List | [Rev.B docx](https://docs.google.com/document/d/1DnGguA2GFsyqxRd0uVYXWXOXZGyRubxF/edit) | 표지 2026-10-12 | 이력 (작업본) |
+| MAI-HO-004 Hardware / Sensor List | [Rev.B Google 문서](https://docs.google.com/document/d/14gugFOzHi7an97EFTStVKkxJX93melxtlBWqEqz-lbs/edit) | 생성 10-30, 수정 10-30 | 최신 (`4. 산출물/2026.11.04 월례회의`) |
 
-- MAI-HO-004 Rev.B는 실제 발주 모델을 반영했다. 다만 변경 추적이 수락되지 않았고 PDF가 없으며 Outline M1에도 언급이 없다. 고객사 제출 여부는 메일로 확인해야 한다.
+- MAI-HO-004 Rev.B는 실제 발주 모델을 반영했다. 10-30에 월례회의 폴더에 Google 문서판이 생성되었다. PDF가 없으므로 고객사 제출 여부는 메일로 확인해야 한다.
 - MAI-HO-004 Rev.A Google 문서 (10-12 생성)는 Rev.A PDF를 변환한 사본이다.
 - 산출물 목록 시트는 Outline [산출물](https://wiki.worvgrip.com/doc/7ikw7lac66y8-ZaCGoINnuZ)에 임베드되어 있다. 원본 시트는 이정건 개인 드라이브에 있다.
 
@@ -93,8 +105,11 @@
 
 | 문서 | 위치 | 수정일 | 상태 | 비고 |
 | :--- | :--- | :--- | :--- | :--- |
-| [KOM2. 프로젝트 스케줄.xlsx](https://docs.google.com/spreadsheets/d/1hTz4ZRl1XApK35TLO_-7Fer4o4plVn5q/edit) | Drive `PM` | 2026-10-23 | 최신 (**Rev.C**, 기준일 10-23) | 파일명에 Rev 없음. 로컬 사본은 10-22 수정본. 프로젝트 폴더 밖 같은 이름 사본 2개는 이력 |
-| [한화오션_센서류 구매내역.xlsx](https://docs.google.com/spreadsheets/d/1tSiwkH6GsArIGhoHAVuHeP8UPyRYIY9u/edit) | Drive `5. 구매내역/2. 센서류 견적/발주서` | 2026-10-13 | 최신. 일부 상태 칸 오래됨 | Keyence가 "발주예정"으로 남음. KOM2와 Monthly에는 10/20 입고. Outline 센서류 현황 문서가 이 시트를 임베드함 |
+| [KOM2. 프로젝트 스케줄 (Google 시트)](https://docs.google.com/spreadsheets/d/1rrtlBH1eDgGcSr8xK3Jj7zewq1_3GETSHRX9X5N9SyE/edit) | Drive `PM` | 2026-11-02 | 최신 (10-28 생성) | Gantt 기준일 10/28 개정과 변경이력 No.12 ~ 28 반영본 (`project_status.md`) |
+| [KOM2. 프로젝트 스케줄.xlsx](https://docs.google.com/spreadsheets/d/1hTz4ZRl1XApK35TLO_-7Fer4o4plVn5q/edit) | Drive `PM` | 2026-10-28 | 이력 (**Rev.C**) | Google 시트 생성 이후 수정 없음. 프로젝트 폴더 밖 같은 이름 사본 2개도 이력 |
+| [20261106 월간 보고서](https://docs.google.com/document/d/1CLmDny6fyeWd9QGr3scBJr260-qzAj_YyuoqAqb7I-s/edit) | Drive `PM` | 2026-11-06 | 최신 | 과제 개요, 예산 구성, 세부 일정, 평가 지표 49건 요약. 같은 폴더 `…_10월_초안`은 이미지 포함 작업본 |
+| [한화오션_센서류 구매내역.xlsx](https://docs.google.com/spreadsheets/d/1tSiwkH6GsArIGhoHAVuHeP8UPyRYIY9u/edit) | Drive `5. 구매내역/2. 센서류 견적/발주서` | 2026-10-29 | 최신 | 10-29 김지현 수정. 상태 칸 갱신 여부는 본문 미확인. Outline 센서류 현황 문서가 이 시트를 임베드함 |
+| [(프로젝트예산관리테이블) 한화오션 …_261111](https://docs.google.com/spreadsheets/d/1pOfHCZFJHGYvZGbVePjTXHx8jMdP52XiowyZB0kmZN4/edit) | WoRV 공유 드라이브 `0. 프로젝트예산관리테이블` (프로젝트 폴더 밖) | 2026-11-11 | 최신 | 프로젝트 코드 P384. 보안 1급 (원가, 실적) |
 | [MAI_ 한화로보틱스 리드암·팔로우암 구매 발주서_260917.pdf](https://drive.google.com/file/d/1S-KfYkWRVXGxKV9NhZZpIPkdnn2Uf27G/view) | Drive `5. 구매내역` | 2026-10-06 | 최신 | 2026-09-17 마음AI 대표 날인. 리드암 2세트, 팔로우암 세트 2세트. 납품장소 부산 스타웰즈, 포항 CoCEL |
 | [용접 시편 계획.pdf](https://drive.google.com/file/d/1_sGR0dgrhumTTxd56KMrkZiZOhQRPGwc/view) | Drive `기술자료/시편` | 2026-10-14 | 최신 | 스타웰즈 작성 (2026-10-13). 시편 10종 |
 | 현행 장비 CAD, 스펙시트 | Drive `5. 구매내역/0. outdated` | 2026-10-13 | 최신 | **폴더명과 달리 실제 발주 장비 자료.** WELDVIS, KEYENCE, Edmund, Basler, Mech-Mind |
@@ -119,8 +134,8 @@
 | `표준_스타웰즈 곡블록 비정형 용접부 자율용접 기술용역 계약.docx` | `1. 입찰 서류` | 스타웰즈 계약 아님. 한화오션 공란 표준 양식 | 이력. `표준_한화오션_국내 기술용역 표준 계약서(검토용)`과 중복 |
 | `스타웰즈_곡블록 비정형 용접부 자율용접 기술용역 계약.docx` | `1. 입찰 서류` | 스타웰즈 파트너 계약 초안. 뒷부분에 본계약 조항이 섞여 있음 | 이력 (파트너 계약) |
 | `20260825 계약서` 폴더 | `1. 입찰 서류` | 한화오션 수정본 0825와 마음AI 검토본. 입찰이 아닌 본계약 협상 단계 | 이력 (4.1의 08.25) |
-| `CoCEL_MAI 답변_…xlsx의 사본.xlsx` | `1. 입찰 서류` | "사본"이 실제 대외 발송본 | 최종 발송본. 사본 아닌 `MAI 답변_…xlsx`가 내부 작업본 |
-| RFP 검증방법 `…의 사본` 2개 | `1. 입찰 서류` | 원본과 같은 내용 | 중복 |
+| `CoCEL_MAI 답변_…xlsx의 사본.xlsx` | `1. 입찰 서류/outdated` (11-11 이동) | "사본"이 실제 대외 발송본 | **최종 발송본인데 outdated 폴더로 이동됨.** 사본 아닌 `MAI 답변_…xlsx`가 내부 작업본 |
+| RFP 검증방법 `…의 사본` 2개 | `1. 입찰 서류/outdated` (11-11 이동) | 원본과 같은 내용 | 중복 |
 | `기타 한화오션 제공 서류` 폴더 | `2. 계약서 - 한화오션` | 마음AI 작성 예산분배, 업무분장 | 폴더명 모호. 한화오션에 제출한 서류로 추정 |
 | `outdated` 폴더 | 최상위 | 킥오프 내방객 명단, 스타웰즈 대표 FCAW 강의자료 (10-08) | 옛 버전 아님. 강의자료는 현행 기술 참고자료 |
 | `5. 구매내역/0. outdated` 폴더 | `5. 구매내역` | 현행 장비 CAD, 스펙시트, 현행 거래처 에드몬드 서류, 중단 업체 서류 | 일부만 이력. Basler, 마이크로엡실론 서류가 이력 |
@@ -141,6 +156,12 @@
 | `…의 사본`, `…의 사본의 사본` 6개 | `2. CoCEL/계약서`, `2026.09.18 최종계약서` | 사양서, 제안서, 윤리지침, 업무분장 사본 | 중복 |
 | 에피소드 계약서 2개 | `5. 에피소드` | 본문 동일 | 중복 |
 | 크라우드웍스 계약서 | `4. 크라우드웍스` | 공란 초안 | 진행 중. 파일명에 초안 표시 없음 |
+| `[양식] 산업체_계약변경합의서_POSTECH.docx` | `2. CoCEL/2026.11 계약변경합의서` | 포항공대 산학협력단 표준 양식. 계약기간 변경용 문구 | 양식. 제1조, 제2조 제1항, 제3조(관할)가 11-12 합의서에 그대로 남음 |
+| `[초안] 포항공대 기술용역 변경계약서_데이터수집HW 구매주체 변경_20261028` | 같은 폴더 | 마음AI 자체 형식 변경계약서 초안 v0.1. 대여 물품 조항, 별첨 인수증, **사내 검토 메모(계약 금액) 포함** | 이력. 11-12 합의서로 대체. 외부 송부 금지 |
+| `마음AI수정_산업체계약변경합의서_POSTECH_20261112.docx` | 같은 폴더 | 포항공대 양식에 변경 내용을 넣은 마음AI 수정본. 11-12 박다은, 이정건 편집 | 진행 중 (2.1) |
+| `기술용역계약서_포항공과대학` (Google 문서) | `2. CoCEL/계약서/2026.09.18 최종계약서` | 서명본 PDF의 텍스트 변환본 (10-28) | 참고용. 원본은 같은 폴더 PDF |
+| `첨부 2. 포항공대 견적서.docx` | 같은 폴더 | 간접비 표기 25%판 견적 | 2.1 판본 주의 참조 |
+| `마음ai인수증.pdf` | `5. 구매내역/0. outdated` | 파일명과 달리 웰드비스 용접 카메라 납품·기술지원 확인증 (2026-10-23, 2대). 마음AI 인수자 서명 | 현행 증빙. outdated 위치 부적절. 인수자 개인 휴대폰 번호 포함 |
 
 ### 3.3 Outline
 
@@ -183,7 +204,7 @@
 | 상대방 | 이력 | 현행 |
 | :--- | :--- | :--- |
 | 스타웰즈 | 견적 1 ~ 4차 접수 (07-06 ~ 07-29), 8월 대안 견적, 계약서 260831 발송 (09-02, 첨부 견적서 260730) | 09-11 서명본 (첨부 견적서 260904) |
-| 포항공과대학교 산학협력단 (CoCEL) | 원 견적서 20260710, 계약서_CoCEL_260903 (CoCEL 연구실 명의), 포항공대_마음AI회신 (09-16, 산학협력단 명의로 변경) | 09-18 서명본 |
+| 포항공과대학교 산학협력단 (CoCEL) | 원 견적서 20260710, 계약서_CoCEL_260903 (CoCEL 연구실 명의), 포항공대_마음AI회신 (09-16, 산학협력단 명의로 변경). 서명본은 회신본 대비 제1조 제4항, 제8조(지식재산권), 제19조 문구가 다르고 조 번호가 붙음 | 09-18 서명본. 변경 진행 중: 10-28 마음AI 초안, 11-10 포항공대 양식 수령, 11-12 양식 기반 마음AI 수정본 |
 | 한화로보틱스 | 초기 견적 (04-23, 팔로우암 3대), 5월 초기 계약 패키지, 제어기 선발주 견적 (07-20), 견적 (07-31), 계약 초안 v3.3과 특약 v3.7 (07-30), 마음AI 검토 (08-20, 검수 기간 7일에서 14일) | 09-15 개발품공급계약 날인본 (별첨 누락), 10-21 장비 사용대차 계약 (Outline에만 있음) |
 | 크라우드웍스 | 표준용역계약서 20260902 (09-08 수정) | 미체결 |
 | 에피소드 | 계약서 2개 (10-21, 본문 동일) | 미체결 |
@@ -202,6 +223,9 @@
 | `업체등록` 폴더 5개 | `1. 입찰 서류` | 마음AI 계좌, 법인인감. **인감증명서에 대표이사 주민등록번호 포함** |
 | 파트너사·거래처 사업자등록증과 통장사본 | `3. 계약서 - 파트너사`, `5. 구매내역/0. outdated` | 거래처 계좌번호 |
 | Outline 한화오션 프로젝트 센서류 구매/견적 현황 | Outline `Hardware` | 업체 담당자 개인 휴대폰 번호 |
+| `마음ai인수증.pdf` | `5. 구매내역/0. outdated` | 마음AI 인수자 개인 휴대폰 번호 |
+| `[초안] 포항공대 기술용역 변경계약서_…_20261028` | `2. CoCEL/2026.11 계약변경합의서` | 하단 사내 검토 메모에 금액, 협상 판단 포함. 포항공대 공유 금지 |
+| 프로젝트예산관리테이블 (한화오션 261111) | WoRV 공유 드라이브 `0. 프로젝트예산관리테이블` | 원가, 영업이익, 투입 인원 |
 | MAI-HO-002 Communication Protocol | `4. 산출물` | 파트너사 담당자 이메일 목록. 산출물로서 정상 |
 
 ### 5.1 금융, 인감 서류 본문 확인 결과
@@ -226,7 +250,7 @@
 
 | 대상 | 현황 |
 | :--- | :--- |
-| `5. 구매내역/1. 법인카드 영수증` | 번호 누락 (18 ~ 26, 32, 39, 64, 71, 77). 구분자 `N_`와 `N.` 혼용. 날짜 YYMMDD, YYYYMMDD, 날짜 없음 혼용. 확장자 없는 파일 8개. 37번과 67번, 63번과 80번은 품목명이 같아 중복 또는 재구매 확인 필요 |
+| `5. 구매내역/1. 법인카드 영수증` | 10-27 이후 18 ~ 26, 39, 64, 71, 77 보충, 82 ~ 98 추가 (최신 98번, 11-09 구매). **95번이 2개** (면봉 외 4종, DC 분배선 환불영수증). 32번 누락 여부 미확인. 구분자 `N_`와 `N.` 혼용. 날짜 YYMMDD, YYYYMMDD, 날짜 없음 혼용. 확장자 없는 파일 증가 (82, 88, 95 환불 등). 37번과 67번, 63번과 80번, PPA-CF 필라멘트(25, 77, 88, 96)는 재구매 여부 확인 필요 |
 | 이중 확장자 | `기술용역계약서_스타웰즈_260911_pdf.pdf`, `스타웰즈_견적서_수정본V3.docx.pdf` |
 | 확장자 없음 | `기술용역계약서_포항공과대학`, 한화로보틱스 08-20 검토본 2개 |
 | 사본 표기 | `…의 사본`, `…의 사본의 사본` 다수 |
@@ -239,22 +263,26 @@
 
 | 경로 | 폴더 ID | 하위 항목 | 비고 |
 | :--- | :--- | :--- | :--- |
-| `/` (Hanwha Ocean 곡블록 용접) | `1LGaGOG8J1nX6UDdesja42h4M1rf6JTph` | 폴더 8, 파일 2 | 제안서 편집 원본(최신), 법무검토 주석본(이력) |
-| `1. 입찰 서류` | `1imvoKd9NudfA6vhoIzSxI92ZisxNC5rp` | 폴더 5, 파일 19 | RFP, 업체등록, 계약 초안, Deviation List. 이름과 내용이 다른 파일 다수 (3.1) |
+| `/` (4. Hanwha Ocean 곡블록 용접) | `1LGaGOG8J1nX6UDdesja42h4M1rf6JTph` | 폴더 8, 파일 2 | 제안서 편집 원본(최신), 법무검토 주석본(이력). 11-11 폴더명 변경 |
+| `1. 입찰 서류` | `1imvoKd9NudfA6vhoIzSxI92ZisxNC5rp` | 폴더 6 | RFP, 업체등록, 계약 초안, Deviation List. 이름과 내용이 다른 파일 다수 (3.1) |
+| `1. …/outdated` | `1uALX8nGHfRCYrdAYd4RaeDGw9p6wapic` | 파일 3 | 11-11 신설. CoCEL 답변 발송본, RFP 검증방법 사본 2개 |
 | `2. 계약서 - 한화오션` | `14iJdMA7IpcEvOBvJyAK6UpOEHc_d0tXW` | 폴더 6 | 4.1 참조 |
 | `3. 계약서 - 파트너사` | `1c_z5HBKzBPHAIhfr2Bi4CBoJckXswjWm` | 폴더 5 | 스타웰즈, CoCEL, 한화로보틱스, 크라우드웍스, 에피소드 |
 | `3. …/1. 스타웰즈` | `1FvJFy0T6A8HHdI-cntBR8uYqEFOVJeLM` | 견적서, 계약서, 스타웰즈 서류 | |
-| `3. …/2. CoCEL` | `1Ffs3rGbnFjNb_8z7QFBdHU0ub-eDEX4i` | 견적서, 계약서 | |
+| `3. …/2. CoCEL` | `1Ffs3rGbnFjNb_8z7QFBdHU0ub-eDEX4i` | 견적서, 계약서, 2026.11 계약변경합의서 | |
+| `3. …/2. CoCEL/계약서/2026.09.18 최종계약서` | `1O8QkXLqYIoLcBwP13FzY-ps4ZSlWQQvw` | 파일 5 | 서명본 PDF, 텍스트 변환본, 첨부 2 docx, 사본 2개 |
+| `3. …/2. CoCEL/2026.11 계약변경합의서` | `1KUmaU1LwBcrzr3EJ3i0b-PHkQRbBPdgN` | 파일 3 | 11-10 신설. 양식, 10-28 초안, 11-12 수정본 |
 | `3. …/3. 한화로보틱스` | `1kuQV5gHtLI3E6ZjQ_wM-84yfJatPGLwv` | 견적서, 계약서, DeviationList | |
 | `3. …/4. 크라우드웍스` | `1FlmzFZSAZI5sRAYcMPS714GJcGMgt67R` | 파일 1 | |
 | `3. …/5. 에피소드` | `16vGqZEOmggEjQwm3NUwuAeEotXgTFi0A` | 파일 2 | 보안 1급 |
 | `4. 산출물/2026.09.22 M1` | `1OAHqN3g1lO635zV75UeWFSJXpX4IWkdU` | 파일 6 | 2.3 참조 |
+| `4. 산출물/2026.11.04 월례회의` | `1EWeel-6-_KeO_Dt8Rra_24DOcnZqLYev` | 파일 1 | 10-30 신설. MAI-HO-004 Rev.B Google 문서 |
 | `5. 구매내역` | `1AdnkCPFLEFKQczM_AW-crtDtw-CMjPcj` | 폴더 3, 파일 1 | |
 | `5. …/0. outdated` | `1dsVB5nEohflIFMqz1KZjJ0P2qgnjQ-30` | 폴더 1, 파일 15 | 현행 장비 CAD와 중단 업체 서류 혼재 (3.1) |
-| `5. …/1. 법인카드 영수증` | `1AQGUSgCFVJ8j3Nhi34F6CghC84hKFvK0` | 파일 67 | 번호 1 ~ 81, 최신 2026-10-26 |
+| `5. …/1. 법인카드 영수증` | `1AQGUSgCFVJ8j3Nhi34F6CghC84hKFvK0` | 파일 90여 개 | 번호 1 ~ 98, 최신 2026-11-11 업로드 (6장 참조) |
 | `5. …/2. 센서류 견적/발주서` | `1sbCqOUJ6T9Ss5sgH1MnKDvTql0DIH4X8` | 파일 6 | |
 | `outdated` | `1yr4ZU4K35zExuU9x2s8og9AxT-3cOQ9D` | 파일 2 | 옛 버전 아님 (3.1) |
-| `PM` | `1sctdy8bKdZBv21VhBpRLL2HkwWLvvuG1` | 파일 1 | KOM2 스케줄 Rev.C |
+| `PM` | `1sctdy8bKdZBv21VhBpRLL2HkwWLvvuG1` | 파일 4 | KOM2 Google 시트(최신), xlsx Rev.C(이력), 11-06 월간 보고서 2개 |
 | `기술자료/시편` | `1fJqlIuAxYKLseYXrYAUnfuqKLpWINKSb` | 파일 1 | |
 
 ---
@@ -358,3 +386,4 @@
 | 2026-10-27 | 최초 작성. Drive 전체 하위 폴더, Outline 컬렉션 72개 문서 조회 |
 | 2026-10-27 | 문서 본문 검토 반영. 서명본 첨부 구성, 계약기간, 파일명 오기, 보안 주의 문서, 장비 사용대차 계약 추가 |
 | 2026-10-27 | 금융·인감 서류 11건, 이미지 PDF 2건 본문 확인 반영 (5.1). 엔티렉스 서류 오분류 확인 |
+| 2026-11-12 | WoRV 공유 드라이브 권한 재조정 후 Drive 증분 갱신 (10-27 이후 생성·수정 파일). 포항공대 계약변경합의서 폴더, 서명본 첨부 2 판본 불일치, KOM2 Google 시트 전환, 월례회의 산출물 폴더, 월간 보고서, 예산관리테이블, 영수증 82 ~ 98, 1. 입찰 서류/outdated 이동 반영. Outline은 미조회 |
